@@ -3,10 +3,10 @@ This workshop aims to bring together both theoreticians and experimentalists who
 The organizers,
 
 
-Veronica Augustyn  (North Carolina State University, USA)
-Jan Balajka (Vienna University of Technology, Austria)
-Evert Jan Meijer (University of Amsterdam, the Netherlands)
-Chao Zhang (Uppsala University, Sweden)
+Veronica Augustyn  (North Carolina State University, USA)    
+Jan Balajka (Vienna University of Technology, Austria)      
+Evert Jan Meijer (University of Amsterdam, the Netherlands)     
+Chao Zhang (Uppsala University, Sweden)    
 
 
 # Program
